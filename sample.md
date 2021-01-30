@@ -4,9 +4,9 @@
 
 **iant**
 
-hardware
+**hardware**
 
-software
+***software***
 
 |        |       |
 |--------|-------|

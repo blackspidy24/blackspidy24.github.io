@@ -9,6 +9,7 @@
 ***software***
 
 |COURSE||
+|----------------|
 |software|Hardware|
 |--------|--------|
  SCSU  | SCSU 

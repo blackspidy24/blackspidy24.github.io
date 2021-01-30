@@ -8,7 +8,7 @@
 
 ***software***
 
-|COURSE|
+|COURSE||
 |--------------|
 |software|Hardware|
 |--------|--------|

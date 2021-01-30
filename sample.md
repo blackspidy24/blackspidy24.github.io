@@ -8,6 +8,6 @@ hardware
 
 software
 
-|Type    |  Name |
+|        |       |
 |--------|-------|
 |software|Application|

@@ -10,3 +10,4 @@ software
 
 |Type    |  Name |
 |--------|-------|
+|software|Application|

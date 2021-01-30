@@ -8,10 +8,8 @@
 
 ***software***
 
-|Our Courses|
 
 |software|Hardware|
-
 |--------|--------|
  SCSU  | SCSU 
 

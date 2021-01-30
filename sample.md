@@ -10,12 +10,9 @@
 
 |Our Courses|
 
-|--------|--------|
-
 |software|Hardware|
 
 |--------|--------|
-
-|  SCSU  | SCSU |
+ SCSU  | SCSU 
 
 ![iant](https://www.iantindia.com/content/img/slide/iantlogo.png)

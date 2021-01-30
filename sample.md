@@ -11,7 +11,6 @@
  |COURSE||
 |----------------|
 |software|Hardware|
-|--------|--------|
  SCSU  | SCSU 
 
 ![iant](https://www.iantindia.com/content/img/slide/iantlogo.png)
